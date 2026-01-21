@@ -54,7 +54,7 @@ nav ul li a:hover {
 @media (max-width: 600px) {
     .materi-teks {
     margin-bottom: 25px;
-    font-size: 5vh;
+    font-size: 75px;
     text-decoration: none;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -63,7 +63,7 @@ nav ul li a:hover {
 .materi-teks-head {
     text-shadow: white 1px 2px 2px;
     margin-bottom: 50px;
-    font-size: 10vh;
+    font-size: 100px;
     text-decoration: none;
     color: red;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -71,12 +71,13 @@ nav ul li a:hover {
 
 .materi-error {
     margin-bottom: 25px;
-    font-size: 5vh;
+    font-size: 75px;
     text-decoration: none;
     color: red;
     text-shadow:  1px 2px 2px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 
 
 }
@@ -323,3 +324,4 @@ nav ul li a:hover {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
