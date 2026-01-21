@@ -52,7 +52,33 @@ nav ul li a:hover {
 
 
 @media (max-width: 600px) {
-    .materi-teks {
+.home-page {
+    padding: 5vh;
+}
+
+.materi-page {
+    padding: 5vh;
+}
+
+.produk-page {
+    padding: 5vh;
+}
+
+.help-page {
+    padding: 5vh;
+}
+
+.error-page {
+    padding: 5vh;
+}
+
+.choise-page {
+    padding: 5vh;
+}
+
+
+    
+.materi-teks {
     margin-bottom: 25px;
     font-size: 75px;
     text-decoration: none;
@@ -324,4 +350,5 @@ nav ul li a:hover {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 
